@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Setting">Pengaturan</string>
+    <string name="language">Bahasa</string>
+    <string name="change_language">Ganti Bahasa</string>
+
+    <string name="movie">Film</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="setting">Pengaturan</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="finish_load">Data Berhasil Dimuat</string>
+</resources>

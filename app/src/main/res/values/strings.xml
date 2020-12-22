@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">LixFlix</string>
+    <string name="poster" translatable="false">Poster</string>
+
+    <!--Setting-->
+    <string name="Setting" translatable="true">Setting</string>
+    <string name="language" translatable="true">Language</string>
+    <string name="change_language" translatable="true">Change Language</string>
+
+    <!--Non Translatable-->
+    <string name="movie" translatable="true">Movie</string>
+    <string name="tv_show" translatable="true">Tv Show</string>
+    <string name="setting" translatable="true">Settings</string>
+    <string name="overview" translatable="true">Overview</string>
+    <string name="finish_load" translatable="true">Load Data Success</string>
+
+    <!--Example Strings-->
+    <string name="exp_title" translatable="false">Title</string>
+    <string name="exp_release" translatable="false">01/01/2001</string>
+    <string name="exp_score" translatable="false">100%</string>
+    <string name="exp_overview" translatable="false">This is Overview!</string>
+    <string name="exp_tagLine" translatable="false">Tag Line</string>
+</resources>
