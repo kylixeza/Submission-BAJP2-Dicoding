@@ -1,0 +1,13 @@
+   1. Menampilkan data movie
+        Memastikan bottom_nav dalam keadaan tampil
+        Memastikan nav_movie dalam keadaan tampil
+        Memastikan rv_movie dalam keadaan tampil
+        Gulir rv_movie ke posisi terakhir
+   2. Menampilkan data movie
+        Memastikan bottom_nav dalam keadaan tampil
+        Memastikan nav_movie dalam keadaan tampil
+        Memberikan tindakan klik pada data pertama rv_movie
+        Memberikan tindakan tekan balik menuju rv_movie
+        Memastikan  rv_movie dalam keadaan tampil
+        Memberikan tindakan kik pada data terakhir rv_movie
+        Memberikan tindaan tekan balik menuju rv_movie
