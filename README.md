@@ -17,7 +17,7 @@ Submission BAJP (Belajar Android Jetpack Pro) ke 2 Dicoding
   <li><p>Fancy Toast: https://github.com/Shashank02051997/FancyToast-Android </p></li>
 </ul>
 
-<p> You can check the instrumentation testing scenario of this repos at Instrumental Testing Scenario.txt </p>
+<p> You can check the instrumentation testing scenario of this repos at Instrumentation Testing Scenario.txt </p>
   
  <p>Help me to finish my college :)</p>
 https://saweria.co/kylixeza
